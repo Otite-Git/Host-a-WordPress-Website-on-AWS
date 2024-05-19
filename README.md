@@ -1,9 +1,15 @@
-# Host a WordPress Website on AWS
+# 💻Host a WordPress Website on AWS☁️
+
+Hi! Welcome to my repository containing my AWS Project I've have undertaken on my Cloud joruney⚡️:
+
+In this repository you will see a description of the project, low and high level architecture, scripting files and information on other key assets that I have used to develop this project as part of my portfolio and progressive development.
 
 ## **Project Overview**
 
 This project demonstrates how to host a WordPress website on AWS, utilizing various AWS services for a scalable, secure, and highly available architecture. The key components include VPC, EC2 instances, Application Load Balancer, Auto Scaling, Route 53, and more. The setup ensures high availability across multiple availability zones, security through security groups and SSL certificates, and scalability with auto-scaling groups.
 
+![image](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS/assets/154989610/818e5ec1-11d5-4e59-9c7b-ad6b3308917b)
+- - - 
 ## **Architecture**
 
 1. **Virtual Private Cloud (VPC):** Created with Public and Private Subnets in 2 availability zones to segregate different components and enhance security.
@@ -172,7 +178,7 @@ sudo service httpd restart
 ## **Additional Resources**
 
 - **AWS Documentation:** Refer to the [AWS documentation](https://aws.amazon.com/documentation/) for detailed guides on setting up VPC, EC2, Auto Scaling, Load Balancer, and other services.
-- **GitHub Repository Files:** Access the repository files for scripts, architectural diagrams, and configuration files necessary for deploying the website.
+- **GitHub Repository Files:** Refer to [Otite-Git/Host-WorPress](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS.git) to access the repository files for scripts, architectural diagrams, and configuration files necessary for deploying the website.
 
 ## **Contributing**
 
