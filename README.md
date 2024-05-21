@@ -16,7 +16,7 @@ This project demonstrates how to host a WordPress website on AWS, utilizing vari
 2. **Public Subnets:** Used for infrastructure components like the NAT Gateway and Application Load Balancer.
 3. **Internet Gateway:** Enables communication between instances in the VPC and the internet.
 4. **Private Subnets:** Used to host the web server, designed to serve web pages and applications over the internet securely.
-5. **EC2 Instances:** Utilized to host the WordPress website, accessible via an EC2 Instance Connect Endpoint.
+5. **EC2 Instances:** Utilised to host the WordPress website, accessible via an EC2 Instance Connect Endpoint.
 6. **Web Server and Data Server:** Deployed in Private Subnets to protect the backend servers.
 7. **Application Load Balancer:** Distributes web traffic across an Auto Scaling Group of EC2 instances in two availability zones for high availability and fault tolerance.
 8. **Availability Zones:** Ensures high availability and fault tolerance by deploying resources across multiple zones.
@@ -187,3 +187,7 @@ Contributions to this project are welcome! Please fork the repository and submit
 ## **License**
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## **WordPress Website Page**
+
+www.luxelimosrentals.com
