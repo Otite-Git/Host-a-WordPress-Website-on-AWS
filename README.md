@@ -4,9 +4,14 @@ Hi! Welcome to my repository containing my AWS Project I've have undertaken on m
 
 In this repository you will see a description of the project, low and high level architecture, scripting files and information on other key assets that I have used to develop this project as part of my portfolio and progressive development.
 
+## **WordPress Website Page**
+
+[www.luxelimosrentals.com](https://drive.google.com/file/d/1Gy5ZhBRLFuDI_Mi-Fpw_jSVhp-mOQ7mo/view?usp=sharing)
+
 ## **Project Overview**
 
 This project demonstrates how to host a WordPress website on AWS, utilizing various AWS services for a scalable, secure, and highly available architecture. The key components include VPC, EC2 instances, Application Load Balancer, Auto Scaling, Route 53, and more. The setup ensures high availability across multiple availability zones, security through security groups and SSL certificates, and scalability with auto-scaling groups.
+
 
 ![image](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS/assets/154989610/818e5ec1-11d5-4e59-9c7b-ad6b3308917b)
 - - - 
@@ -188,6 +193,3 @@ Contributions to this project are welcome! Please fork the repository and submit
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## **WordPress Website Page**
-
-www.luxelimosrentals.com
