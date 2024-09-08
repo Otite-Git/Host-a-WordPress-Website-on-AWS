@@ -1,8 +1,8 @@
 # 💻Host a WordPress Website on AWS☁️
 
-Hi! Welcome to my repository containing my AWS Project I've have undertaken on my Cloud joruney⚡️:
+Hi! Welcome to my repository containing my AWS Project I've have undertaken as an AWS Cloud expert and enthusiast⚡️:
 
-In this repository you will see a description of the project, low and high level architecture, scripting files and information on other key assets that I have used to develop this project as part of my portfolio and progressive development.
+In this repository you will see a description of the project, low and high level architecture, scripting files and information on other key assets that I have used to develop this project as part of my portfolio.
 
 ## **WordPress Website Page**
 
