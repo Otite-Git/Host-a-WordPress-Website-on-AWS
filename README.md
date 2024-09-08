@@ -189,9 +189,6 @@ sudo service httpd restart
 
 Contributions to this project are welcome! Please fork the repository and submit a pull request with your enhancements.
 
-## **License**
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## **What problems did I solve by completing this project?**
 
