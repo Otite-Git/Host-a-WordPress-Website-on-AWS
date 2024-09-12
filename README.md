@@ -10,7 +10,7 @@ In this repository you will see a description of the project, low and high level
 
 ## **Project Overview**
 
-This project demonstrates how to host a WordPress website on AWS, utilizing various AWS services for a scalable, secure, and highly available architecture. The key components include VPC, EC2 instances, Application Load Balancer, Auto Scaling, Route 53, and more. The setup ensures high availability across multiple availability zones, security through security groups and SSL certificates, and scalability with auto-scaling groups.
+This project demonstrates how to host a WordPress website on AWS, utilising various AWS services for a scalable, secure, and highly available architecture. The key components include VPC, EC2 instances, Application Load Balancer, Auto Scaling, Route 53, and more. The setup ensures high availability across multiple availability zones, security through security groups and SSL certificates, and scalability with auto-scaling groups.
 
 
 ![image](https://github.com/Otite-Git/Host-a-WordPress-Website-on-AWS/assets/154989610/818e5ec1-11d5-4e59-9c7b-ad6b3308917b)
